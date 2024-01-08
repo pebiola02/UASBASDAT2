@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "659b9878ca701b39d198c3c1"
+  },
+  "id": 1,
+  "nim": 3444,
+  "namadepan": "Elo",
+  "namabelakang": "Putra",
+  "phone": "121212",
+  "kotaasal": "Palembang"
+},
+{
+  "_id": {
+    "$oid": "659b9878ca701b39d198c3c2"
+  },
+  "id": 2,
+  "nim": 3445,
+  "namadepan": "Eko",
+  "namabelakang": "Kuntadhi",
+  "phone": "131313",
+  "kotaasal": "Jakarta"
+},
+{
+  "_id": {
+    "$oid": "659ba189ec61a87e5472e221"
+  },
+  "id": 3,
+  "nim": 3446,
+  "namadepan": "Febi",
+  "namabelakang": "Febiola",
+  "phone": "141414",
+  "kotaasal": "Palembang"
+}]
